@@ -1,0 +1,37 @@
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px;
+    max-width: 1440px;
+    margin: 0 auto;
+    align-items: center;
+    background-color: #fff;
+}
+
+.main-header-links {
+   display: flex;
+   gap: 40px; 
+}
+
+.main-header-link a {
+    color: black;
+}
+
+.main-header-right-side {
+    display: flex;
+    align-items: center;
+}
+
+.main-header-right-side img:first-child {
+    margin-right: 20px;
+}
+
+.main-header-register {
+    background-color: #09A66D;
+    color: #fff;
+    padding: 10px 23px;
+    font-size: 18px;
+    border-radius: 8px;
+    margin-left: 32px;
+}
+
