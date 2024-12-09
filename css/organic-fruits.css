@@ -1,0 +1,63 @@
+.organic-fruits {
+    padding: 83px 0;
+    background-color: #F3FBF8;
+}
+
+.organic-fruits-name {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 70px;
+}
+
+.organic-fruits-text {
+    text-align: center;
+    color: #555555;
+    line-height: 30px;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+
+.organic-fruits-link {
+    color: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+    line-height: 167%;
+    font-weight: 500;
+}
+
+.organic-fruits-info {
+    display: flex;
+    justify-content: center; 
+    gap: 150px;
+}
+
+.organic-fruits-resources {
+    display: inline-block;
+}
+
+.organic-fruits-resource {
+    display: flex;
+    gap: 24px;
+    padding: 17px 33px;
+    background-color: #fff;
+}
+
+.organic-fruits-resource:not(:last-child) {
+    margin-bottom: 30px;
+}
+
+.organic-fruits-cance {
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 48px;
+    margin-bottom: 4px;
+}
+
+.organic-fruits-resource-title {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
