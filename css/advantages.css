@@ -1,0 +1,61 @@
+.advantages {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 80px;
+}
+
+.advantages-the-best {
+    font-size: 70px;
+    color: #222222;
+    margin-bottom: 18px;
+}
+
+.advantages-together {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    padding: 40px 60px;
+}
+
+.advantages-togethe {
+    margin-bottom: 20px;
+}
+
+.advantages-story {
+    font-size: 18px;
+    color: #555555;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 56px;
+}
+
+.form-us {
+    display: flex;
+    justify-content: end;
+}
+
+.advantages-service-name {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 13.10px;
+    color: #222222;
+}
+
+.advantages-text {
+    font-size: 14px;
+    line-height: 20px;
+    color: #555555;
+}
+.advantages-together {
+    gap: 20px;
+}
+
+.advantages-together-color {
+    background-color: #F3FBF8;
+
+}
+
+.advantages-arrow-down {
+    margin-right: 700px;
+}

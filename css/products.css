@@ -1,0 +1,31 @@
+.products {
+    background-color: #09A66D0D;
+    display: flex;
+    justify-content: center;
+    padding: 88px 0;
+}
+
+.products-name {
+    font-size: 70px;
+    line-height: 90px;
+    margin-bottom: 20px;
+}
+
+.products-combination {
+    font-size: 18px;
+    line-height: 30px;
+    color: #555555;
+    margin-bottom: 67px;
+}
+
+.to-study {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+    font-size: 18px;
+    line-height: 167%;
+    font-weight: 500;
+}
+
+.fresh-melientha {
+}
